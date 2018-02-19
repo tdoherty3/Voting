@@ -2,6 +2,11 @@
   display: none;
 }
 
+body {
+  background-color: lime;
+  color: #0000ff;
+}
+
 <style>
 a:link {
   color: green;
@@ -10,7 +15,7 @@ a:link {
 }
 
 a:visited {
-    color: pink;
+    color: darkgrey;
     background-color: transparent;
     text-decoration: none;
 }
